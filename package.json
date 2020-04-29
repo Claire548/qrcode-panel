@@ -17,8 +17,8 @@
   },
   "devDependencies": {
     "@grafana/data": "next",
-    "@grafana/toolkit": "next",
-    "@grafana/ui": "next"
+    "@grafana/toolkit": "^7.0.0-beta.1",
+    "@grafana/ui": "^6.7.3"
   },
   "resolutions": {
     "@babel/preset-env": "7.9.0",
