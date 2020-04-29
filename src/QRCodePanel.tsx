@@ -1,12 +1,9 @@
 import React, { PureComponent } from 'react';
 import { PanelProps } from '@grafana/data';
-import { SimpleOptions } from 'types';
 
 var QRCode = require('qrcode.react');
 
-interface Props extends PanelProps<SimpleOptions> {}
-
-export class SimplePanel extends PureComponent<Props> {
+export class QRCodePanel extends PureComponent<PanelProps> {
   render() {
     return (
       <div
