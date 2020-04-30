@@ -1,14 +1,14 @@
 {
     "type": "panel",
     "name": "QRCode",
-    "id": "polytech-qr-code",
+    "id": "claire548-qr-code",
     "info": {
-        "description": "",
+        "description": "Panel that displays a QR code of the current Dashboard.",
         "author": {
             "name": "Claire Velut & Mica Murphy",
             "url": ""
         },
-        "keywords": [],
+        "keywords": ["qrcode"],
         "logos": {
             "small": "img/logo.svg",
             "large": "img/logo.svg"
