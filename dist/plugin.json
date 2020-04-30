@@ -1,0 +1,33 @@
+{
+    "type": "panel",
+    "name": "QRCode",
+    "id": "polytech-qr-code",
+    "info": {
+        "description": "",
+        "author": {
+            "name": "Claire Velut & Mica Murphy",
+            "url": ""
+        },
+        "keywords": [],
+        "logos": {
+            "small": "img/logo.svg",
+            "large": "img/logo.svg"
+        },
+        "links": [{
+                "name": "Website",
+                "url": "https://github.com/Claire548/qrcode-panel"
+            },
+            {
+                "name": "License",
+                "url": ""
+            }
+        ],
+        "screenshots": [],
+        "version": "1.0.0",
+        "updated": "2020-04-30"
+    },
+    "dependencies": {
+        "grafanaVersion": "6.3.x",
+        "plugins": []
+    }
+}
